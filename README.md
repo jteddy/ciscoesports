@@ -1,7 +1,2 @@
 # Cisco Game On Grand Prix
-
-
-
-## Game Rules
-
-- [Counter-Strike 2](https://raw.githubusercontent.com/jteddy/ciscoesports/main/game-rules/counter-strike2.md)
+Information has moved to the [Github Wiki](https://github.com/jteddy/ciscoesports/wiki).
